@@ -330,3 +330,6 @@ Add your license here and include a `LICENSE` file in the repository.
 ---
 
 <p align="center"><b>Kadak & Co.</b> · Café POS<br/>Chai, conversation, counter.</p>
+
+---
+Made with ❤️ by Karthik Prabhu
