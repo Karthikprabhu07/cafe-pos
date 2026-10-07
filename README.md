@@ -30,6 +30,7 @@
 - [Limitations](#-limitations)
 - [Roadmap ideas](#-roadmap-ideas)
 - [Contributing](#-contributing)
+- [Author](#-author)
 - [License](#-license)
 
 ---
@@ -323,13 +324,19 @@ Be aware of these before using the app in a real café:
 
 ---
 
+## 👤 Author
+
+**Karthik Prabhu**
+GitHub: [@Karthikprabhu07](https://github.com/Karthikprabhu07)
+
+If you find this project useful, a ⭐ on the repo is appreciated.
+
+---
+
 ## 📄 License
 
 Add your license here and include a `LICENSE` file in the repository.
 
 ---
 
-<p align="center"><b>Kadak & Co.</b> · Café POS<br/>Chai, conversation, counter.</p>
-
----
-Made with ❤️ by Karthik Prabhu
+<p align="center"><b>Kadak & Co.</b> · Café POS<br/>Chai, conversation, counter.<br/>Made by <a href="https://github.com/Karthikprabhu07">Karthik Prabhu</a></p>
