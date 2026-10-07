@@ -339,4 +339,4 @@ Add your license here and include a `LICENSE` file in the repository.
 
 ---
 
-<p align="center"><b>Kadak & Co.</b> · Café POS<br/>Chai, conversation, counter.<br/>Made by <a href="https://github.com/Karthikprabhu07">Karthik Prabhu</a></p>
+<p align="center"><b>Kadak & Co.</b> · Café POS<br/>Chai, conversation, counter.<br/>
